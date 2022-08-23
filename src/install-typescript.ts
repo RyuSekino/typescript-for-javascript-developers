@@ -1,3 +1,3 @@
 let message: string = 'Hello';
-console.log({messag});
+console.log({message});
 
